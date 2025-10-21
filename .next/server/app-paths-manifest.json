@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/booking/page": "app/booking/page.js",
+  "/login/page": "app/login/page.js",
+  "/api/fields/route": "app/api/fields/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/admin/reservations/route": "app/api/admin/reservations/route.js",
+  "/admin/booking/page": "app/admin/booking/page.js",
+  "/admin/fields/page": "app/admin/fields/page.js",
+  "/api/admin/fields/route": "app/api/admin/fields/route.js"
+}
