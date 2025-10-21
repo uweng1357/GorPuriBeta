@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sport Reservation - Website Reservasi Lapangan Olahraga
 
 Website reservasi lapangan olahraga modern yang dibangun dengan Next.js 14, TypeScript, dan MySQL. Website ini menyediakan platform yang mudah digunakan untuk melakukan reservasi lapangan olahraga dengan berbagai fitur lengkap.
@@ -214,3 +215,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Tailwind CSS untuk styling system
 - MySQL untuk database yang reliable
 - Semua kontributor open source yang telah membantu
+=======
+# GorPuriBeta
+>>>>>>> c434dc6a60bc94c71ead4962d0b162a1c14497ed
